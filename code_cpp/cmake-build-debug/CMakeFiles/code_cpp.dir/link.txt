@@ -1,0 +1,3 @@
+"D:\software\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\code_cpp.dir/objects.a
+D:\software\MinGW\bin\ar.exe cr CMakeFiles\code_cpp.dir/objects.a @CMakeFiles\code_cpp.dir\objects1.rsp
+D:\software\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\code_cpp.dir/objects.a -Wl,--no-whole-archive  -o code_cpp.exe -Wl,--out-implib,libcode_cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\code_cpp.dir\linklibs.rsp

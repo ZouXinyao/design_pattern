@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/github_project/design_pattern/code_cpp/Builder/Builder.cpp
+Builder.h
+E:/github_project/design_pattern/code_cpp/Builder/Builder.h
+
+E:/github_project/design_pattern/code_cpp/Builder/Builder.h
+Product.h
+E:/github_project/design_pattern/code_cpp/Builder/Product.h
+
+E:/github_project/design_pattern/code_cpp/Builder/ConcreteBuilder.cpp
+ConcreteBuilder.h
+E:/github_project/design_pattern/code_cpp/Builder/ConcreteBuilder.h
+
+E:/github_project/design_pattern/code_cpp/Builder/ConcreteBuilder.h
+Builder.h
+E:/github_project/design_pattern/code_cpp/Builder/Builder.h
+
+E:/github_project/design_pattern/code_cpp/Builder/Director.cpp
+Director.h
+E:/github_project/design_pattern/code_cpp/Builder/Director.h
+
+E:/github_project/design_pattern/code_cpp/Builder/Director.h
+Builder.h
+E:/github_project/design_pattern/code_cpp/Builder/Builder.h
+
+E:/github_project/design_pattern/code_cpp/Builder/Product.h
+iostream
+-
+
+E:/github_project/design_pattern/code_cpp/Builder/main.cpp
+ConcreteBuilder.h
+E:/github_project/design_pattern/code_cpp/Builder/ConcreteBuilder.h
+Director.h
+E:/github_project/design_pattern/code_cpp/Builder/Director.h
+string
+-
+
