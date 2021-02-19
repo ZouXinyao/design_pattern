@@ -1,8 +1,8 @@
 package main
 
 import (
-	"My_golang_design_pattern/03_builder/builder"
 	"fmt"
+	"github.com/ZouXinyao/design_pattern/code_go/03_builder/builder"
 )
 
 func main() {

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"My_golang_design_pattern/04_prototype/prototype"
 	"fmt"
+	"github.com/ZouXinyao/design_pattern/code_go/04_prototype/prototype"
 )
 
 func main() {

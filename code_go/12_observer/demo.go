@@ -1,7 +1,7 @@
 package main
 
 import (
-	"My_golang_design_pattern/12_observer/observer"
+	"github.com/ZouXinyao/design_pattern/code_go/12_observer/observer"
 )
 
 func main() {
